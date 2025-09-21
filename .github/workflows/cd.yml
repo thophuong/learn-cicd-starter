@@ -1,4 +1,4 @@
-name cd
+name: cd
 on:
   push:
     branches: [main]
